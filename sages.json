@@ -90,32 +90,32 @@
             ]
         },
         {
-            "name":"GOING \"DARK\"",
+            "name":"OBSOLETE THINGS",
             "questions":[
                 {
                     "value":100,
-                   "question":"THIS UNFORGIVING ACTION/RPG FROM FROM SOFTWARE TAKES PLACE IN THE KINGDOM OF LORDRAN",
-                    "answer": "What is Dark Souls?"
+                   "question":"GPS HAS MADE IT EASY TO TRAVEL TO NEW PLACES, BUT BEFORE THAT, AAA PROVIDED THESE FOR ROAD TRIPS",
+                    "answer": "What is TripTik (or maps)?"
                 },
                 {
                     "value":200,
-                   "question":"TIM BURTON AND JOHNNY DEPP RESURRECTED THIS LATE-60S VAMPIRE SOAP OPERA AS A COMEDY FILM IN 2012",
-                    "answer": "What is Dark Shadows?"
+                   "question":"BEFORE CELL PHONES, PEOPLE USED THESE TO MAKE CALLS WHEN THEY WERE OUT AND ABOUT",
+                    "answer": "What are pay phones?"
                 },
                 {
                     "value":300,
-                   "question":"THIS CLASSIC FRANK MILLER GRAPHIC NOVEL FEATURES A BITTER, AGING BATMAN AND A FEMALE ROBIN",
-                    "answer": "What is The Dark Knight Returns?"
+                   "question":"HD-DVD VS BLURAY WAS NOT THE FIRST VIDEO FORMAT WAR.  THIS FORMAT LOST TO VHS",
+                    "answer": "What is Betamax?"
                 },
                 {
                     "value":400,
-                   "question":"GELFLINGS KIRA AND JEN ESCAPE THE SKEKSIS IN THIS 1982 JIM HENSON CULT FANTASY FAVORITE",
-                    "answer": "What is The Dark Crystal?"
+                   "question": "REMOVABLE STORAGE HAS BEEN A CONSTANT IN COMPUTING.  THE COUNTERPART TO \"HARD DISKS\" WERE THESE",
+                    "answer": "What are floppy disks?"
                 },
                 {
                     "value": 500,
-                    "question": "THE SPIDER-MAN STAGE MUSICAL,  NOW PLAYING  ON BROADWAY, FEATURES THIS UNUSUAL SUBTITLE",
-                    "answer": "What is Turn Off the Dark?"
+                    "question": "DVD'S ARE COMPACT, AND DISPLACED THIS FORMAT THAT MANY CONSIDERED SUPERIOR",
+                    "answer": "What are laserdiscs?"
                 }
             ]
         },
@@ -150,32 +150,32 @@
             ]
         },
         {
-            "name":"PAINFULLY OBVIOUS",
+            "name":"IT'S ABOUT TIME",
             "questions":[
                 {
                     "value":100,
-                   "question":"SHE'S THE PRINCESS IN THE CLASSIC RPG THE LEGEND OF ZELDA",
-                    "answer": "Who is Zelda?"
+                   "question":"THIS BAND RELEASED THEIR CLASSIC HIT \"TIME IS ON MY SIDE\" IN 1964",
+                    "answer": "Who are the Rolling Stones?"
                 },
                 {
                     "value":200,
-                   "question":"BUNGIE'S WORKING TITLE FOR MARATHON WAS MARATHON, BUT ONI'S WORKING TITLE WAS THIS",
-                    "answer": "What is Oni?"
+                   "question":"This man sang \"Time keeps on slippin' into the future\" in his classic hit from 1976",
+                    "answer": "Who is Steve Miller?"
                 },
                 {
                     "value":300,
-                   "question":"THIS TWO-BUTTON FIGHTING GAME STARS TWO  GUYS NAMED  KICK AND DIVE",
-                    "answer": "What is Divekick?"
+                   "question":"THIS ICONIC BAND RELEASED A SONG ENTITLED \"TIME\" ON AN ALBUM THAT WENT ON TO BE AN ALL-TIME BEST SELLER",
+                    "answer": "Who is Pink Floyd?"
                 },
                 {
                     "value":400,
-                   "question":"BRODERBUND'S CASTLE WOLFENSTEIN WAS AN INSPIRATION FOR THIS 1992 FIRST-PERSON SHOOTER FROM ID SOFTWARE",
-                    "answer": "What is Wolfenstein 3D?"
+                   "question":"IN THEIR HIT FROM 1984, THIS BAND SANG \"ROUND AND ROUND; LOVE WILL FIND A WAY, JUST GIVE IT TIME\"",
+                    "answer": "Who is Ratt?"
                 },
                 {
                     "value": 500,
-                    "question": "THIS VIDEO GAME CHARACTER  IS BLUE, COLLECTS RINGS,  AND GOES FAST",
-                    "answer": "What is Sonic/Dankey Kang?"
+                    "question": "\"The Time Warp\" is a classic hit from this 1973 rock musical",
+                    "answer": "What is the Rocky Horror Picture Show?"
                 }
             ]
         }
