@@ -272,32 +272,32 @@
             ]
         },
         {
-            "name":"BRUCE CAMPBELL",
+            "name":"80'S GADGETS",
             "questions":[
                 {
                     "value":200,
-                    "question":"BRUCE’S FIRST FILM WITH THIS DIRECTOR WAS THE 1977 SHORT \"IT’S MURDER\"",
-                    "answer": "Who is Sam Raimi?"
+                    "question":"THIS DEVICE FROM SONY REVOLUTIONIZED THE MOBILE AUDIO EXPERIENCE",
+                    "answer": "What is the Walkman?"
                 },
                 {
                     "value":400,
-                    "question":"IN BUBBA HO-TEP, CAMPBELL FIGHTS  A MUMMY AS A GERIATRIC VERSION OF THIS ROCK  MUSIC LEGEND",
-                    "answer": "Who is Elvis Presley?"
+                    "question":"THESE DEVICES REPLACED THE BETAMAX PLAYERS BECAUSE THEY WERE CHEAPER AND HAD 120 MINUTES OF RECORDING CAPABILITIES",
+                    "answer": "What is the video casette recorder (VCR)?"
                 },
                 {
                     "value":600,
-                    "question":"BRUCE PLAYED THIS \"KING OF THIEVES\" ON BOTH THE HERCULES & XENA SYNDICATED SERIES",
-                    "answer": "Who is Autolycus?"
+                    "question":"This sound-activated electronic switch reformed the way we interacted with our household",
+                    "answer": "What is the Clapper?"
                 },
                 {
                     "value":800,
-                    "question":"BRUCE STARRED IN JUST 27 EPISODES OF THIS SCI-FI WESTERN SERIES BEFORE FOX CANCELLED IT",
-                    "answer": "What is The Adventures of Brisco County Jr.??"
+                    "question":"THIS FLASH GAME MADE FOR GREAT FUN, TESTING YOUR PHOTOGRAPHIC MEMORY AND TIMING, FORCING YOU TO MEMORIZE COLORS, SOUNDS, AND FLASHES",
+                    "answer": "What is Simon?"
                 },
                 {
                     "value":1000,
-                    "question":"ON JACK OF ALL TRADES, CAMPBELL PLAYED AMERICAN SPY JACK STILES AND THIS MASKED ALTER EGO",
-                    "answer": "What is The Daring Dragoon?"
+                    "question":"THIS DEVICE FIT ON YOUR WRIST AND MADE IT EASIER TO SOLVE MATH PROBLEMS",
+                    "answer": "What is the calculator watch?"
                 }
             ]
         },
