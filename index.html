@@ -35,9 +35,9 @@
   <script type="text/javascript" language="Javascript" src="./bootstrap-static/3.3.5/js/bootstrap.min.js"></script>
 
   <script type="text/javascript" language="Javascript" src="./js/jeopardy.js"></script>
-  <script src='http://localhost:8090/socket.io/socket.io.js'></script>
+  <script src='http://buzzer.zmt.org/socket.io/socket.io.js'></script>
   <script>
-  const socket = io('http://localhost:8090')
+  const socket = io('http://buzzer.zmt.org')
 	socket.on('buzzes', function(data) {
 			console.log('buzzes');
 			console.log(data)
