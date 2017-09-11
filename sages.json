@@ -120,32 +120,32 @@
             ]
         },
         {
-            "name":"FICTIONAL COMPANIES",
+            "name":"80'S WORLD AFFAIRS",
             "questions":[
                 {
                     "value":100,
-                   "question":"YOU CAN BLAME THIS FICTIONAL COMPANY FOR RESIDENT EVIL'S  T-VIRUS",
-                    "answer": "What is Umbrella?"
+                   "question":"RONALD REAGAN FAMOUSLY ADDRESSED THIS PERSON, SAYING \"TEAR DOWN THIS WALL MR. __________\"",
+                    "answer": "Who is Mikhail Gorbachov?"
                 },
                 {
                     "value":200,
-                   "question":"\"MORE HUMAN THAN HUMAN\" IS THE MOTTO OF THIS REPLICANT MANUFACTURER FROM BLADE RUNNER",
-                    "answer": "What is Tyrell Corporation?"
+                   "question":"ON JAN, 28, 1986, THIS SPACECRAFT EXPLODED SHORTLY AFTER LIFTOFF",
+                    "answer": "What is the Space Shuttle Challenger?"
                 },
                 {
                     "value":300,
-                   "question":"MILES DYSON CREATED NEURAL-NET PROCESSORS FOR THIS COMPANY, WHICH ULTIMATELY BUILDS SKYNET",
-                    "answer": "What is Cyberdyne Systems?"
+                   "question":"IN 1980, THE SHOW \"DALLAS\" ACQUIRED 83 MILLION VIEWERS WHEN THEY REVEALED THE ANSWER TO THIS QUESTION",
+                    "answer": "Who shot J.R.?"
                 },
                 {
                     "value":400,
-                   "question":"THEY OWN ROBOCOP, ED-209, AND THE ENTIRE DETROIT POLICE FORCE",
-                    "answer": "What is Omni Consumer Products/OCP?"
+                    "question": "IN 1986, THIS NUCLEAR REACTOR MELTED DOWN IN THE FORMER USSR",
+                    "answer": "What is Chernobyl?"
                 },
                 {
                     "value": 500,
-                    "question": "IN TRON, KEVIN FLYNN HACKS HIS WAY INTO THE NETWORK OF THIS FICTIONAL  GAME PUBLISHER",
-                    "answer": "What is Encom?"
+                   "question":"THIS PERSON ATTEMPTED TO ASSASSINATE US PRESIDENT RONALD REAGAN IN 1981",
+                    "answer": "Who is John Hinkley, Jr.?"
                 }
             ]
         },
