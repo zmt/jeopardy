@@ -212,32 +212,32 @@
             ]
         },
         {
-            "name":"ALLITERATION",
+            "name":"80S TELEVISION",
             "questions":[
                 {
                     "value":200,
-                    "question":"WALTER WHITE AND JESSE PINKMAN MAKE METH IN AN RV IN THIS AWARD-WINNING TV DRAMA",
-                    "answer": "What is Breaking Bad?"
+                    "question":"THIS ORIGINAL SERIES BY GENE RODDENBURY  IS CONSIDERED BY MANY THE GREATEST SPACE EXPLORATION TV SERIES OF ALL TIME",
+                    "answer": "What is Star Trek Next Generation(TNG)?"
                 },
                 {
                     "value":400,
-                    "question":"THE BEHEMOTH RELEASED THIS MEDIEVAL CO-OP BEAT-EM-UP ON XBOX LIVE ARCADE IN AUGUST 2008",
-                    "answer": "What is Castle Crashers?"
+                    "question":"THE IDEA OF PLACE WHERE EVERYBODY KNEW YOUR NAME WAS CENTRAL TO THE SUCCESS WAS CENTRAL TO THE SUCCESS OF THIS TV SHOW",
+                    "answer": "What is Cheers?"
                 },
                 {
                     "value":600,
-                    "question":"SHE’S NOT JUST TONY STARK’S ASSISTANT - SHE ALSO SUITS UP AS THE ARMORED HERO CALLED RESCUE",
-                    "answer": "Who is Pepper Potts?"
+                    "question":"THIS SHOW THAT FEATURED A CRUISE SHIP HAD A SIGNATURE LINE OF \"SOON WE'LL BE MAKING ANOTHER RUN\"",
+                    "answer": "What is The Love Boat?"
                 },
                 {
                     "value":800,
-                    "question":"THIS EGOTIST WOULD HAVE BEEN GREEN LANTERN  IF THE RING  HADN’T CHOSEN  HAL JORDAN FIRST",
-                    "answer": "Who is Guy Gardner?"
+                    "question":"THIS VISITOR FROM OUTER SPACE OFTEN GREETED PEOPLE WITH THE SAYING \"NANU NANU\"",
+                    "answer": "Who is Mork (from Ork)?"
                 },
                 {
                     "value":1000,
-                    "question":"THIS VISUAL EFFECTS COMPANY CREATES 3D BODY SCANS FOR MOVIES AS WELL AS JUMBO STAR WARS ACTION FIGURES",
-                    "answer": "What is Gentle Giant?"
+                    "question":"THIS SHOW FEATURED A PRIVATE INVESTIGATOR LIVED ON A MANSION ON OAHU WHO DROVE A FERRARI",
+                    "answer": "What is Magnum, P.I.?"
                 }
             ]
         },
