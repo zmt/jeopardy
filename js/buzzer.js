@@ -14,7 +14,7 @@ socket.on('buzzes', function(data) {
 
         // emit clear on close for next question
         document.getElementById('answer-close-button').addEventListener('click', () => {
-            socket.emit('clear')
+            socket.emit('clear')  // emits 6x?!?
         })
         // emit clear on right answer for next question
         var btns = document.querySelectorAll('.btn-success')
@@ -33,12 +33,12 @@ $(document).ready(function(){
     $('#question-modal').on('show.bs.modal', function () {
         resetTimer();
         var buzzed = document.getElementById('question-modal-content').getElementsByClassName('buzzed');
-        console.log(buzzed);
-        Object.keys(buzzed).forEach(function(index) {
-            clearbuzz = buzzed[index];
+        console.log(buzzed); 
+        Object.keys(buzzed).forEach(function(element) {
+            clearbuzz = buzzed[element];
+            console.log(element + ':' + clearbuzz); 
             // throws exception frequently when switching topics after multiple buzz-ins
             // all try/catch of if === undefined make it worse
-            console.log(clearbuzz);
             clearbuzz.classList.remove('buzzed');
         });
     });
