@@ -212,7 +212,7 @@
             ]
         },
         {
-            "name":"80S TELEVISION",
+            "name":"80'S TELEVISION",
             "questions":[
                 {
                     "value":200,
@@ -302,32 +302,32 @@
             ]
         },
         {
-            "name":"FOUR-LETTER WORDS",
+            "name":"80'S MOVIES",
             "questions":[
                 {
                     "value":200,
-                    "question":"IT'S HOMER SIMPSON'S FAVORITE BEER",
-                    "answer": "What is Duff?"
+                    "question":"THIS HIGH SCHOOL STUDENT WENT BACK IN TIME 30 YEARS IN A DELOREAN",
+                    "answer": "Who is Marty McFly?"
                 },
                 {
                     "value":400,
-                    "question":"THE NAME OF THIS INTERLOCKING TOY COMES FROM THE DANISH PHRASE FOR \"PLAY WELL\"",
-                    "answer": "What is LEGO?"
+                    "question":"THIS SPIELBERG MOVIE FEATURED A TROUBLED CHILD WHO HELPED A FRIENDLY ALIEN ESCAPE",
+                    "answer": "What is ET?"
                 },
                 {
                     "value":600,
-                    "question":"THIS 1997 SCI-FI/HORROR FILM ABOUT A MAZE OF MOVING ROOMS WOULD HAVE MADE ERNO RUBIK PROUD",
-                    "answer": "What is Cube?"
+                    "question":"IN THIS MOVIE, A MAN AFRAID OF FLYING MUST ENSURE THAT A PLANE LANDS SAFELY AFTER THE PILOTS BECOME SICK",
+                    "answer": "What is Airplane!?"
                 },
                 {
                     "value":800,
-                    "question":"FACEPUNCH STUDIOS RELEASED AN ALPHA OF THIS MULTIPLAYER SURVIVAL GAME IN DECEMBER 2013",
-                    "answer": "What is Rust?"
+                    "question":"THIS HIGH SCHOOL WISE GUY WAS DETERMINED TO HAVE A DAY OFF OF SCHOOL",
+                    "answer": "Who is Ferris Bueller?"
                 },
                 {
                     "value":1000,
-                    "question":"IN 2008, BLACK ROCK STUDIOS CREATED THIS ATV RACING/STUNT GAME FOR DISNEY INTERACTIVE",
-                    "answer": "What is Pure?"
+                    "question":"\"WAX ON, WAX OFF\" WAS THE STRATEGY USED BY THIS MARTIAL ARTS EXPERT",
+                    "answer": "What is Mr. (Kensuke) Miyagi?"
                 }
             ]
         },
