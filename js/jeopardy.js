@@ -1,6 +1,7 @@
 $(function(){
     $('#game-load-modal').modal('show');
-    chooseTheme = Math.random() < 0.5 ? true : false;
+    //chooseTheme = Math.random() < 0.5 ? true : false;
+    chooseTheme = false
     if (chooseTheme) {
 	    openingTheme.play();
 	}
