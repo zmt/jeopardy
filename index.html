@@ -35,14 +35,8 @@
   <script type="text/javascript" language="Javascript" src="./bootstrap-static/3.3.5/js/bootstrap.min.js"></script>
 
   <script type="text/javascript" language="Javascript" src="./js/jeopardy.js"></script>
-  <script src='http://buzzer.zmt.org/socket.io/socket.io.js'></script>
-  <script>
-  const socket = io('http://buzzer.zmt.org')
-	socket.on('buzzes', function(data) {
-			console.log('buzzes');
-			console.log(data)
-	});
-	</script>
+  <script type="text/javascript" language="Javascript" src='https://buzzer.zmt.org/socket.io/socket.io.js'></script>
+  <script type="text/javascript" language="Javascript" src="./js/buzzer.js"></script>
 
   <title>HTML Jeopardy</title>
 </head>
@@ -109,7 +103,7 @@
         </div><!-- /.answer -->
 
         <div id="scoring-buttons" class="text-center modal-footer">
-          <div class="score-button-group">
+          <div class="score-button-group" id="p1">
             <div class="col-md-4">
               <button type="button" class="btn btn-danger score-button" id="p1-wrong-button">
                 <span class="glyphicon glyphicon-remove"></span>P1
@@ -120,7 +114,7 @@
             </div>
           </div>
 
-          <div class="score-button-group">
+          <div class="score-button-group" id="p2">
             <div class="col-md-4">
               <button type="button" class="btn btn-danger score-button" id="p2-wrong-button">
                 <span class="glyphicon glyphicon-remove"></span>P2
@@ -131,7 +125,7 @@
             </div>
           </div>
 
-          <div class="score-button-group">
+          <div class="score-button-group" id="p3">
             <div class="col-md-4">
               <button type="button" class="btn btn-danger score-button" id="p3-wrong-button">
                 <span class="glyphicon glyphicon-remove"></span>P3
