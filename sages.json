@@ -1,0 +1,375 @@
+{
+    "jeopardy":[
+        {
+            "name":"DEFUNCT COMPUTING COMPANIES",
+            "questions":[ {
+                    "value":100,
+                    "question":"STEVE JOBS' PROJECT AFTER APPLE",
+                    "answer": "What is NeXT?"
+                },
+                {
+                    "value":200,
+                    "question":"THE CHAMPION OF RISC PROCESSORS AND THE JAVA PROGRAMMING LANGUAGE",
+                    "answer": "What is Sun Microsystems?"
+                },
+                {
+                    "value":300,
+                    "question":"THE FIRST COMPANY TO PRODUCE A 1GHZ CPU",
+                    "answer": "What is Digital Equipment Corporation (DEC)?"
+                },
+                {
+                    "value":400,
+                    "question":"THIS COMPANY WAS FAMOUS FOR THE IRIS SERIES OF GRAPHICS WORKSTATIONS AND WAS FEATURED IN \"JURASSIC PARK\"",
+                    "answer": "What is Silcon Graphics(SGI)?"
+                },
+                {
+                    "value": 500,
+                    "question": "THIS COMPANY PRODUCED THE 'TURBO C++' AND 'TURBO PASCAL' COMPILERS",
+                    "answer": "What is Borland?"
+                }
+            ]
+        },
+        {
+            "name":"VIDEO GAMES",
+            "questions":[
+                {
+                   "value":100,
+                   "question":"THIS WAS A NAMCO GAME THAT FEATURED A MOUSE COP THAT RETREIVED STOLEN GOODS",
+                   "answer": "What is Notch?"
+                },
+                {
+                    "value":200,
+                   "question":"THIS DAMSEL IN DISTRESS HAD TO BE RESCUED IN DONKEY KONG",
+                    "answer": "Who is Pauline?"
+                },
+                {
+                    "value":300,
+                   "question":"THIS TABLE TENNIS GAME WAS THE FIRST SPORTS VIDEO GAME, USING 2-D GRAPHICS",
+                    "answer": "What is PONG?"
+                },
+                {
+                    "value":400,
+                   "question":"THIS PC GAME WAS THE ORIGINAL FIRST PERSON SHOOTER",
+                    "answer": "What is Wolfenstein?"
+                },
+                {
+                    "value": 500,
+                    "question": "THIS GAME, DEVELOPED IN THE USSR, WENT ON TO BE AN INTERNATIONAL HIT",
+                    "answer": "What is Tetris?"
+                }
+            ]
+        },
+        {
+            "name":"FAMOUS FIRST WORDS",
+            "questions":[
+                {
+                    "value":100,
+                   "question":"\"BITE MY SHINY METAL ASS\"",
+                    "answer": "Who is Bender?"
+                },
+                {
+                    "value":200,
+                   "question":"\"WHY, YOU SLIMY, DOUBLE-CROSSING, NO-GOOD SWINDLER. YOU GOT A LOT OF GUTS COMING HERE, AFTER WHAT  YOU PULLED\"",
+                    "answer": "Who is Lando Calrissian?"
+                },
+                {
+                    "value":300,
+                   "question":"\"LISTEN TO MY STORY. THIS MAY BE OUR LAST CHANCE.\"",
+                    "answer": "Who is Tidus?"
+                },
+                {
+                    "value":400,
+                   "question":"\"FARMBOY, POLISH MY HORSE'S SADDLE. I WANT TO SEE MY FACE SHINING IN IT BY MORNING\"",
+                    "answer": "Who is Princess Buttercup?"
+                },
+                {
+                    "value": 500,
+                    "question": "\"THIS IS IT.  THIS IS WHERE FORRESTAL CASHED IN  HIS CHIPS\"",
+                    "answer": "Who is Indiana Jones?"
+                }
+            ]
+        },
+        {
+            "name":"GOING \"DARK\"",
+            "questions":[
+                {
+                    "value":100,
+                   "question":"THIS UNFORGIVING ACTION/RPG FROM FROM SOFTWARE TAKES PLACE IN THE KINGDOM OF LORDRAN",
+                    "answer": "What is Dark Souls?"
+                },
+                {
+                    "value":200,
+                   "question":"TIM BURTON AND JOHNNY DEPP RESURRECTED THIS LATE-60S VAMPIRE SOAP OPERA AS A COMEDY FILM IN 2012",
+                    "answer": "What is Dark Shadows?"
+                },
+                {
+                    "value":300,
+                   "question":"THIS CLASSIC FRANK MILLER GRAPHIC NOVEL FEATURES A BITTER, AGING BATMAN AND A FEMALE ROBIN",
+                    "answer": "What is The Dark Knight Returns?"
+                },
+                {
+                    "value":400,
+                   "question":"GELFLINGS KIRA AND JEN ESCAPE THE SKEKSIS IN THIS 1982 JIM HENSON CULT FANTASY FAVORITE",
+                    "answer": "What is The Dark Crystal?"
+                },
+                {
+                    "value": 500,
+                    "question": "THE SPIDER-MAN STAGE MUSICAL,  NOW PLAYING  ON BROADWAY, FEATURES THIS UNUSUAL SUBTITLE",
+                    "answer": "What is Turn Off the Dark?"
+                }
+            ]
+        },
+        {
+            "name":"FICTIONAL COMPANIES",
+            "questions":[
+                {
+                    "value":100,
+                   "question":"YOU CAN BLAME THIS FICTIONAL COMPANY FOR RESIDENT EVIL'S  T-VIRUS",
+                    "answer": "What is Umbrella?"
+                },
+                {
+                    "value":200,
+                   "question":"\"MORE HUMAN THAN HUMAN\" IS THE MOTTO OF THIS REPLICANT MANUFACTURER FROM BLADE RUNNER",
+                    "answer": "What is Tyrell Corporation?"
+                },
+                {
+                    "value":300,
+                   "question":"MILES DYSON CREATED NEURAL-NET PROCESSORS FOR THIS COMPANY, WHICH ULTIMATELY BUILDS SKYNET",
+                    "answer": "What is Cyberdyne Systems?"
+                },
+                {
+                    "value":400,
+                   "question":"THEY OWN ROBOCOP, ED-209, AND THE ENTIRE DETROIT POLICE FORCE",
+                    "answer": "What is Omni Consumer Products/OCP?"
+                },
+                {
+                    "value": 500,
+                    "question": "IN TRON, KEVIN FLYNN HACKS HIS WAY INTO THE NETWORK OF THIS FICTIONAL  GAME PUBLISHER",
+                    "answer": "What is Encom?"
+                }
+            ]
+        },
+        {
+            "name":"PAINFULLY OBVIOUS",
+            "questions":[
+                {
+                    "value":100,
+                   "question":"SHE'S THE PRINCESS IN THE CLASSIC RPG THE LEGEND OF ZELDA",
+                    "answer": "Who is Zelda?"
+                },
+                {
+                    "value":200,
+                   "question":"BUNGIE'S WORKING TITLE FOR MARATHON WAS MARATHON, BUT ONI'S WORKING TITLE WAS THIS",
+                    "answer": "What is Oni?"
+                },
+                {
+                    "value":300,
+                   "question":"THIS TWO-BUTTON FIGHTING GAME STARS TWO  GUYS NAMED  KICK AND DIVE",
+                    "answer": "What is Divekick?"
+                },
+                {
+                    "value":400,
+                   "question":"BRODERBUND'S CASTLE WOLFENSTEIN WAS AN INSPIRATION FOR THIS 1992 FIRST-PERSON SHOOTER FROM ID SOFTWARE",
+                    "answer": "What is Wolfenstein 3D?"
+                },
+                {
+                    "value": 500,
+                    "question": "THIS VIDEO GAME CHARACTER  IS BLUE, COLLECTS RINGS,  AND GOES FAST",
+                    "answer": "What is Sonic/Dankey Kang?"
+                }
+            ]
+        }
+    ],
+    "double-jeopardy":[
+        {
+            "name":"HISTORY OF COMPUTING",
+            "questions":[
+                {
+                    "value":200,
+                    "question":"SHE COINED THE TERM 'BUG' FOR SOFTWARE DEFECTS",
+                    "answer": "Who is Grace Hopper?"
+                },
+                {
+                    "value":400,
+                    "question":"THE FIRST WEB SERVER IN THE USA WAS INSTALLED HERE",
+                    "answer": "What is Stanford Linear Accelerator Lab (SLAC)?"
+                },
+                {
+                    "value":600,
+                    "question":"THIS COMPUTER MANUFACTURER WAS THE FIRST TO PROVIDE A \"MOUSE\"",
+                    "answer": "What is Xerox (Palo Alto Research Center or PARC)?"
+                },
+                {
+                    "value":800,
+                    "question":"THIS WAS THE FIRST INTERNET WORM",
+                    "answer": "What is the Morris Worm?"
+                },
+                {
+                    "value":1000,
+                    "question":"THIS COMPANY WAS ORIGINALLY CALLED THE \"COMPUTING-TABULATING-RECORDING COMPANY\"",
+                    "answer": "What is International Business Machines(IBM)?"
+                }
+            ]
+        },
+        {
+            "name":"ALLITERATION",
+            "questions":[
+                {
+                    "value":200,
+                    "question":"WALTER WHITE AND JESSE PINKMAN MAKE METH IN AN RV IN THIS AWARD-WINNING TV DRAMA",
+                    "answer": "What is Breaking Bad?"
+                },
+                {
+                    "value":400,
+                    "question":"THE BEHEMOTH RELEASED THIS MEDIEVAL CO-OP BEAT-EM-UP ON XBOX LIVE ARCADE IN AUGUST 2008",
+                    "answer": "What is Castle Crashers?"
+                },
+                {
+                    "value":600,
+                    "question":"SHE’S NOT JUST TONY STARK’S ASSISTANT - SHE ALSO SUITS UP AS THE ARMORED HERO CALLED RESCUE",
+                    "answer": "Who is Pepper Potts?"
+                },
+                {
+                    "value":800,
+                    "question":"THIS EGOTIST WOULD HAVE BEEN GREEN LANTERN  IF THE RING  HADN’T CHOSEN  HAL JORDAN FIRST",
+                    "answer": "Who is Guy Gardner?"
+                },
+                {
+                    "value":1000,
+                    "question":"THIS VISUAL EFFECTS COMPANY CREATES 3D BODY SCANS FOR MOVIES AS WELL AS JUMBO STAR WARS ACTION FIGURES",
+                    "answer": "What is Gentle Giant?"
+                }
+            ]
+        },
+        {
+            "name":"COMIC ICONS",
+            "questions":[
+                {
+                    "value":200,
+                    "question":"Art courtesy http://kalangozilla.deviantart.com/",
+                    "image": "images/flash.png",
+                    "answer": "What is the Flash?"
+                },
+                {
+                    "value":400,
+                    "question":"Art courtesy http://kalangozilla.deviantart.com/",
+                    "image": "images/shield.png",
+                    "answer": "What is S.H.I.E.L.D.?"
+                },
+                {
+                    "value":600,
+                    "question":"Art courtesy http://kalangozilla.deviantart.com/",
+                    "image": "images/deadpool.png",
+                    "answer": "What is Deadpool?"
+                },
+                {
+                    "value":800,
+                    "question":"Art courtesy http://kalangozilla.deviantart.com/",
+                    "image": "images/spawn.png",
+                    "answer": "What is Spawn?"
+                },
+                {
+                    "value":1000,
+                    "question":"Art courtesy http://kalangozilla.deviantart.com/",
+                    "image": "images/redmist.png",
+                    "answer": "What is The Red Mist?"
+                }
+            ]
+        },
+        {
+            "name":"BRUCE CAMPBELL",
+            "questions":[
+                {
+                    "value":200,
+                    "question":"BRUCE’S FIRST FILM WITH THIS DIRECTOR WAS THE 1977 SHORT \"IT’S MURDER\"",
+                    "answer": "Who is Sam Raimi?"
+                },
+                {
+                    "value":400,
+                    "question":"IN BUBBA HO-TEP, CAMPBELL FIGHTS  A MUMMY AS A GERIATRIC VERSION OF THIS ROCK  MUSIC LEGEND",
+                    "answer": "Who is Elvis Presley?"
+                },
+                {
+                    "value":600,
+                    "question":"BRUCE PLAYED THIS \"KING OF THIEVES\" ON BOTH THE HERCULES & XENA SYNDICATED SERIES",
+                    "answer": "Who is Autolycus?"
+                },
+                {
+                    "value":800,
+                    "question":"BRUCE STARRED IN JUST 27 EPISODES OF THIS SCI-FI WESTERN SERIES BEFORE FOX CANCELLED IT",
+                    "answer": "What is The Adventures of Brisco County Jr.??"
+                },
+                {
+                    "value":1000,
+                    "question":"ON JACK OF ALL TRADES, CAMPBELL PLAYED AMERICAN SPY JACK STILES AND THIS MASKED ALTER EGO",
+                    "answer": "What is The Daring Dragoon?"
+                }
+            ]
+        },
+        {
+            "name":"FOUR-LETTER WORDS",
+            "questions":[
+                {
+                    "value":200,
+                    "question":"IT'S HOMER SIMPSON'S FAVORITE BEER",
+                    "answer": "What is Duff?"
+                },
+                {
+                    "value":400,
+                    "question":"THE NAME OF THIS INTERLOCKING TOY COMES FROM THE DANISH PHRASE FOR \"PLAY WELL\"",
+                    "answer": "What is LEGO?"
+                },
+                {
+                    "value":600,
+                    "question":"THIS 1997 SCI-FI/HORROR FILM ABOUT A MAZE OF MOVING ROOMS WOULD HAVE MADE ERNO RUBIK PROUD",
+                    "answer": "What is Cube?"
+                },
+                {
+                    "value":800,
+                    "question":"FACEPUNCH STUDIOS RELEASED AN ALPHA OF THIS MULTIPLAYER SURVIVAL GAME IN DECEMBER 2013",
+                    "answer": "What is Rust?"
+                },
+                {
+                    "value":1000,
+                    "question":"IN 2008, BLACK ROCK STUDIOS CREATED THIS ATV RACING/STUNT GAME FOR DISNEY INTERACTIVE",
+                    "answer": "What is Pure?"
+                }
+            ]
+        },
+        {
+            "name":"COMPUTER LANGUAGES",
+            "questions":[
+                {
+                    "value":200,
+                    "question":"THIS LANGUAGE WAS MOST FREQUENTLY ASSOCIATED WITH Y2K ISSUES",
+                    "answer": "What is COBOL?"
+                },
+                {
+                    "value":400,
+                    "question":"THIS LANGUAGE ORIGINALLY DEVELOPED AT DARTMOUTH COLLEGE FOR TEACHING, WHICH WENT ON TO BE A COMMERCIAL HIT FOR MICROSOFT",
+                    "answer": "What is BASIC?"
+                },
+                {
+                    "value":600,
+                    "question":"THIS LANGUAGE WAS COMPILED AND THEN HAND-TRANSLATED INTO MOTOROLA 68000 ASSEMBLER AND INCORPORATED INTO APPLE LISA & EARLY MACINTOSH COMPUTERS",
+                    "answer": "What is Pascal?"
+                },
+                {
+                    "value":800,
+                    "question":"THIS WAS THE FIRST COMPILED PROGRAMMING LANGUAGE",
+                    "answer": "What is Flow-Matic?"
+                },
+                {
+                    "value":1000,
+                    "question":"The first version of EMACS was written in this language",
+                    "answer": "What is TECO?"
+                }
+            ]
+        }
+    ],
+    "final-jeopardy":{
+        "category": "COMPLAINTS",
+        "question": "THIS IS THE U.S. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION'S (EEOC) FASTEST GROWING COMPLAINT SEGMENT",
+        "answer": "What is Age-Related Discrimination?"
+    }
+}
