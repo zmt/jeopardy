@@ -242,37 +242,32 @@
             ]
         },
         {
-            "name":"COMIC ICONS",
+            "name":"SPORTS",
             "questions":[
                 {
                     "value":200,
-                    "question":"Art courtesy http://kalangozilla.deviantart.com/",
-                    "image": "images/flash.png",
-                    "answer": "What is the Flash?"
+                    "question":"THIS FEMALE TENNIS STAR WAS WORLD NO. 1 FOR A TOTAL OF 332 WEEKS IN SINGLES, AND A RECORD 237 WEEKS IN DOUBLES, MAKING HER THE ONLY PLAYER IN HISTORY TO HAVE HELD THE TOP SPOT IN BOTH SINGLES AND DOUBLES FOR OVER 200 WEEKS",
+                    "answer": "Who is Martina Navratalova?"
                 },
                 {
                     "value":400,
-                    "question":"Art courtesy http://kalangozilla.deviantart.com/",
-                    "image": "images/shield.png",
-                    "answer": "What is S.H.I.E.L.D.?"
+                    "question":"THIS PROFESSIONAL FOOTBALL PLAYER WAS INSTRUMENTAL IN MAKING THE WINNING PLAY KNOWN AS \"THE CATCH\" FOR THE 1981 NFC PLAYOFFS IN ORDER TO ADVANCE TO SUPER BOWL XVI",
+                    "answer": "Who is Dwight Clark?"
                 },
                 {
                     "value":600,
-                    "question":"Art courtesy http://kalangozilla.deviantart.com/",
-                    "image": "images/deadpool.png",
-                    "answer": "What is Deadpool?"
+                    "question":"THIS CONTROVERSIAL PLAYER EXCELLED AT BOTH FOOTBALL AND BASEBALL AND PLAYED FOR PROFESSIONAL TEAMS IN THE LATE '80S AND EARLY '90S",
+                    "answer": "Who is Deion Sanders?"
                 },
                 {
                     "value":800,
-                    "question":"Art courtesy http://kalangozilla.deviantart.com/",
-                    "image": "images/spawn.png",
-                    "answer": "What is Spawn?"
+                    "question":"THIS PLAYER WAS CHARLES BARKLEY'S TOUGHEST OPPONENT IN THE NBA",
+                    "answer": "Who is Kevin McHale of the Boston Celtics?"
                 },
                 {
                     "value":1000,
-                    "question":"Art courtesy http://kalangozilla.deviantart.com/",
-                    "image": "images/redmist.png",
-                    "answer": "What is The Red Mist?"
+                    "question":"THIS NOTABLE GOLFER BEAT HIS MAJOR RIVAL FOR THE THE 1977 MASTERS, 1977 OPEN CHAMPIONSHIP, AND THE 1982 U.S. OPEN, SPARKING A RENAISSANCE FOR GOLF IN THE UNITED STATES",
+                    "answer": "Who is Tom Watson?"
                 }
             ]
         },
