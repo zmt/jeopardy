@@ -60,32 +60,32 @@
             ]
         },
         {
-            "name":"FAMOUS FIRST WORDS",
+            "name":"COMMERCIAL CLASSICS",
             "questions":[
                 {
                     "value":100,
-                   "question":"\"BITE MY SHINY METAL ASS\"",
-                    "answer": "Who is Bender?"
+                   "question":"\"HOLD THE PICKLE HOLD THE LETTUCE\" WAS THE SALES LINE FOR THIS RESTAURANT",
+                    "answer": "What is Burger King?"
                 },
                 {
                     "value":200,
-                   "question":"\"WHY, YOU SLIMY, DOUBLE-CROSSING, NO-GOOD SWINDLER. YOU GOT A LOT OF GUTS COMING HERE, AFTER WHAT  YOU PULLED\"",
-                    "answer": "Who is Lando Calrissian?"
+                   "question":"THIS SAYING FROM A WENDY'S COMMERCIAL THAT LATER BECAME USED IN THE PRESIDENTIAL CAMPAIGN OF 1984",
+                    "answer": "What is \"Where's the beef\"?"
                 },
                 {
                     "value":300,
-                   "question":"\"LISTEN TO MY STORY. THIS MAY BE OUR LAST CHANCE.\"",
-                    "answer": "Who is Tidus?"
+                   "question":"THIS HAIR REMOVAL PRODUCT HAD THE TAG LINE \"WE WEAR SHORT SHORTS\"",
+                    "answer": "What is Nair?"
                 },
                 {
                     "value":400,
-                   "question":"\"FARMBOY, POLISH MY HORSE'S SADDLE. I WANT TO SEE MY FACE SHINING IN IT BY MORNING\"",
-                    "answer": "Who is Princess Buttercup?"
+                   "question":"THESE AMERICAN STYLED TERRACOTTA FIGURINES WERE USED TO SPROUT SEEDS",
+                    "answer": "What are Chia Pets?"
                 },
                 {
                     "value": 500,
-                    "question": "\"THIS IS IT.  THIS IS WHERE FORRESTAL CASHED IN  HIS CHIPS\"",
-                    "answer": "Who is Indiana Jones?"
+                    "question": "THIS POP STAR WAS SEVERELY INJURED WHEN HIS HAIR TRAGICALLY CAUGHT FIRE DURING THE FILMING OF A PEPSI COMMERCIAL IN 1984",
+                    "answer": "Who is Michael Jackson?"
                 }
             ]
         },
